@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100,
+    "name": "Red Logo",
+    "artist": "Debra",
+    "thumbnail": "redlogo192.png"
+  },
+  {
+    "id": 101,
+    "name": "Blue Logo",
+    "artist": "Debra",
+    "thumbnail": "logo192.png"
+  }
+]
